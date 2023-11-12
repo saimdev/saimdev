@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saim Abbas</h1>
-<h3 align="center">Intermediate JavaScript Developer from Pakistan adept in bringing forth expertise in design, installation, testing and maintenance of software and web systems.</h3>
+<h3 align="center">Intermediate JavaScript Developer from Pakistan skilled in software and web systems. Actively involved in training ML models and currently focused on AI development..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimdev&label=Profile%20views&color=0e75b6&style=flat" alt="saimdev" /> </p>
 
