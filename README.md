@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sabbas486249@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mP6NK9_OlOgFdNerkZTGO9MPPWdfxtgA/view?usp=sharing](https://drive.google.com/file/d/1mP6NK9_OlOgFdNerkZTGO9MPPWdfxtgA/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mP6NK9_OlOgFdNerkZTGO9MPPWdfxtgA/view?usp=sharing] (https://drive.google.com/file/d/116u92qAnD_flyir5BwSLLfLr843Tlebg/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
